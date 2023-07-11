@@ -83,7 +83,7 @@
         /// მესამე დავალება. მეთოდი რომელიც ითვლის ფართობს
         /// </summary>
         /// <param name="length">სიგრძე</param>
-        /// <param name="width">სიგანე</param>
+        /// <param name="width">სიგანsე</param>
         /// <param name="height">სიმაღლე</param>
         /// <returns>სიგრძის სიგანის და სიმაღლის ნამრავლს</returns>
         static int CountArea(int length, int width, int height) => length * width * height;
