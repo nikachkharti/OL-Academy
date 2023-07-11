@@ -82,7 +82,7 @@
         /// <summary>
         /// მესამე დავალება. მეთოდი რომელიც ითვლის ფართობს
         /// </summary>
-        /// <param name="length">სიგრძე</param>
+        /// <param name="length">სიგრssძე</param>
         /// <param name="width">სიგანsე</param>
         /// <param name="height">სიმაღლე</param>
         /// <returns>სიგრძის სიგანის და სიმაღლის ნამრავლს</returns>
